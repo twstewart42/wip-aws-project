@@ -15,7 +15,7 @@ The .xml can be uploaded to draw.io and change/expanded as our idea of an MVP is
 ### API Gateway
 The API gateway should act as the main point of entry for all client facing communication to the backend services. The first 33 million requests each month are essentailly Free.   
 
-The API gateway should handle account creation, Authentication, facilitation of secure uploads, payment processing, file tracking, and Movie job creation, plus more as we expand.  
+The API gateway should handle account creation, Authentication, facilitation of secure uploads, payment processing, file tracking, and job/batch creation, plus more as we expand.  
 
 The website should use the API gateway to initiate all calls to the backend services and should essentially be a gui wrapper around the API.  
 
