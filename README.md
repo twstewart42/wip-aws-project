@@ -8,7 +8,7 @@ Key points is that we are a very small operation ( 3 person team) with shallow p
 ## Proposed Service Map
 ![project environment](wip-project-aws.png)
 
-The .xml can be uploaded to draw.io and change/expanded as our idea of an MVP is realized and solidified.  
+The [.xml](wip-project-aws.xml) can be uploaded to draw.io and change/expanded as our idea of an MVP is realized and solidified.  
 
 ## Services
 
